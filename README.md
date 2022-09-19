@@ -1,6 +1,8 @@
 # Turkey-Cities-Api
 turkey cities regions by cities and quarters by city and region
 
+for run app just install requirements and run api.py --> python api.py
+
 ++++++++++++++++++++++++++
 for get list cities (get)
 
