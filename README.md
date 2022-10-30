@@ -1,6 +1,6 @@
 # Turkey-Cities-Api
 turkey cities regions quarters api  // 
-turkie turkiye-il-ilce api
+turkiye-il-ilce-mahalle api
 
 for run app just install requirements and run api.py --> python api.py
 
